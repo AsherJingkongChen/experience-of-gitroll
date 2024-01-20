@@ -4,7 +4,7 @@
 
 A skill assessment tool for GitHub repositories.
 
-The link: [GitRoll](https://gitroll.com/)
+The link: [GitRoll](https://gitroll.io/)
 
 ## How I use GitRoll?
 
@@ -118,7 +118,7 @@ It is an AI tool. It is not perfect but good enough to use.
 
 *NOTE: Links may be invalid in the future. I do not have any archive of them*
 
-1. [GitRoll](https://gitroll.com/)
+1. [GitRoll](https://gitroll.io/)
 2. [GitRoll - AsherJingkongChen](https://gitroll.io/result/repo/FevbnNdjfLngxgxfa13w)
 2. [GitRoll - antfu](https://gitroll.io/result/I5NtrMd9HajJmAKvsfFF)
 2. [GitRoll - 101arrowz](https://gitroll.io/result/Srn70srH03XhHA7R3EyC)
