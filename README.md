@@ -43,7 +43,7 @@ The link: [GitRoll](https://gitroll.io/)
          <img src="./docs/images/SCR.7.mc-biosemo-bug-high.png" width="240px">
 
    2. `Smell - Medium`: Remove this commented out code.
-      - These are needed in practice.
+      - This is needed in practice.
 
          <img src="./docs/images/SCR.8.mc-biosemo-smell-medium.png" width="240px">
 
