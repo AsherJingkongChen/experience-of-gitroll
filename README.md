@@ -38,7 +38,7 @@ The link: [GitRoll](https://gitroll.io/)
 
 1. [AsherJingkongChen/biosemo](https://github.com/AsherJingkongChen/biosemo/tree/21d69f9b6933d5d9d713c084d37b2afed1098707)
    1. `Bug - High`: Remove all characters located before `"<?xml"`.
-      - According to the [XML specification](https://www.w3.org/TR/xml/#NT-prolog), this is not a valid XML file. This issue is correct. However, this severity should not be `High`. Some implementations may ignore the characters before `"<?xml"` and parse the XML file correctly. This issue should be `Medium`. Futhurmore, this XML file is not crucial to the project.
+      - According to the [XML specification](https://www.w3.org/TR/xml/#NT-prolog), this is not a valid XML file. This issue is correct. However, this severity should not be `High`. Some implementations may ignore the characters before `"<?xml"` and parse the XML file correctly. This issue should be `Medium`. Furthermore, this XML file is not crucial to the project.
 
          <img src="./docs/images/SCR.7.mc-biosemo-bug-high.png" width="240px">
 
